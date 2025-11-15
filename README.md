@@ -26,6 +26,9 @@ ideas for custom copilot agents
 
 ### Engineering Enablement & Developer Experience
 
+- container-cache-optimizer — Optimizes Dockerfiles and container builds for maximum layer cacheability and reproducibility. — [.github/agents/Container Cache Optimizer.md](.github/agents/Container%20Cache%20Optimizer.md)
+- python-container-cache-optimizer — Optimizes Python Docker images (pip/Poetry/uv) for high cache hit rates and fast rebuilds. — [.github/agents/Container Cache Optimizer (Python).md](.github/agents/Container%20Cache%20Optimizer%20%28Python%29.md)
+- multi-language-cache-architect — Designs multi-stage Docker builds with stable, reusable layers across polyglot services. — [.github/agents/Container Cache Optimizer (Multi-Language).md](.github/agents/Container%20Cache%20Optimizer%20%28Multi-Language%29.md)
 - tf-module-scaffolder — Creates new Terraform modules following internal structure, naming, and documentation standards. — [.github/agents/Terraform Module Scaffolder.md](.github/agents/Terraform%20Module%20Scaffolder.md)
 - refactoring-strategist — Plans multi-step refactors with safety guarantees. — [.github/agents/Refactoring Strategist.md](.github/agents/Refactoring%20Strategist.md)
 - legacy-react-migration-assistant — Agent that helps migrate older React 17 apps to React 18 with Material UI v5, updating makeStyles usage and ESLint config — [.github/agents/Legacy React Migration Specialist.md](.github/agents/Legacy%20React%20Migration%20Specialist.md)
